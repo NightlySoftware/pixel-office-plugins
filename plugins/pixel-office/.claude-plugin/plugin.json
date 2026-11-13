@@ -1,0 +1,17 @@
+{
+  "name": "pixel-office",
+  "displayName": "Pixel Office",
+  "version": "0.1.0",
+  "description": "Show your Claude Code sessions as robots in your team's Pixel Office, and get a phone notification when one waits for you. Only the kind of work is shared: never prompts, code, file names or commands.",
+  "author": {
+    "name": "NightlySoftware",
+    "email": "hi@pixel-office.app",
+    "url": "https://pixel-office.app"
+  },
+  "homepage": "https://pixel-office.app",
+  "repository": "https://github.com/NightlySoftware/pixel-office-plugins",
+  "license": "MIT",
+  "keywords": ["team", "presence", "virtual-office", "coding-agents", "notifications"],
+  "privacyPolicyUrl": "https://pixel-office.app/privacy",
+  "termsOfServiceUrl": "https://pixel-office.app/terms"
+}

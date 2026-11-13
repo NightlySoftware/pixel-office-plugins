@@ -1,0 +1,15 @@
+{
+  "name": "pixel-office-app",
+  "description": "Pixel Office: a live office where your team and its coding agents work together.",
+  "owner": {
+    "name": "NightlySoftware",
+    "email": "hi@pixel-office.app"
+  },
+  "plugins": [
+    {
+      "name": "pixel-office",
+      "source": "./plugins/pixel-office",
+      "description": "Show your Claude Code sessions as robots in your team's Pixel Office, and get a phone notification when one waits for you."
+    }
+  ]
+}
